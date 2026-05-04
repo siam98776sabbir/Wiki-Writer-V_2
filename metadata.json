@@ -1,0 +1,6 @@
+{
+  "name": "Bengali Wiki Writer_V2",
+  "description": "A Wikipedia-to-Bengali wikitext translator powered by Gemini, designed for high-fidelity Wikipedia contributions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
